@@ -3,7 +3,10 @@ This repository contain some exercise about text generation using Keras.
 The code has been implemented according the instructions of the page 
 http://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
 
-The only differences is that I am using "El Quijote" instead of "Alice in Wonderland".
+The only differences is that I am using "El Quijote" instead of "Alice in Wonderland". 
+You can find many of the Literature Classics in the Project Gutemberg Website (https://www.gutenberg.org/). 
+Just choose one, and download it in plain text format.
+
 Obviously, being a much larger, book will result in a much longer training time. 
 
 On the other hand I am using python 3.5 instead of python 2.7 (that is the version used in the original file).
